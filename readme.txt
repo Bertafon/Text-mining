@@ -1,0 +1,1 @@
+The aim of the project is to conduct text analysis on two datasets: Reddit comments before and after the outbreak of the war in Ukraine. The issues concern Poland and Polish politicians. The analysis is to to verify whether the perception and frequency of occurrence of selected issues has changed as a result of the ethical attitude of the society towards war refugees.
